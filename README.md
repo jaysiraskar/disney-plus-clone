@@ -1,6 +1,6 @@
 # Disney Plus Clone Readme
 
-## <a href="https://disney-clone-d1e27.firebaseapp.com" target="_blank">LIVE DEMO</a>
+## <a href="https://disney-plus-clone-fawn.vercel.app/" target="_blank">LIVE DEMO</a>
 
 ### 🔴 Watch full tutorial <a href='https://www.youtube.com/watch?v=R_OERlafbmw'>HERE</a>
 
